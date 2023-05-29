@@ -12,6 +12,7 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
         'blur-background': 'url("/background.svg")',
+        'blur-bg-desktop': 'url("/background-desktop.svg")',
       },
       fontSize: {
         '40xl': '2.5rem'
